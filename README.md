@@ -1,2 +1,2 @@
 # sudoku-assistant-page
-Compiled version of sudoku-assistant
+Compiled version of https://github.com/marcinsulikowski/sudoku-assistant
